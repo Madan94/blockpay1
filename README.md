@@ -7,7 +7,7 @@
 
 **Blockpay Setup in Just 3 Steps**
 
-<div tyle="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div tyle="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
     <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git3.jpg" alt="logo-white" width="300"/>
     <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git4.jpg" alt="logo-white" width="300"/>
     <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git5.jpg" alt="logo-white" width="300"/>
@@ -98,10 +98,10 @@ Our vision is to make payments simple, secure, and accessible for everyone, empo
     ```
 ---
 
-<div tyle="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git6.jpg" alt="logo-white" width="300"/>
+<div tyle="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
     <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git7.jpg" alt="logo-white" width="300"/>
     <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git8.jpg" alt="logo-white" width="300"/>
+    <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git9.jpg" alt="logo-white" width="300"/>
 </div>
 
 ---
