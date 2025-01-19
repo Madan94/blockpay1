@@ -5,12 +5,13 @@
 
 <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git2.jpg" alt="logo-white" width="300"/>
 
-<img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git3.jpg" alt="logo-white" width="300"/>
+**Blockpay Setup in Just 3 Steps**
 
-<img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git4.jpg" alt="logo-white" width="300"/>
-
-<img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git5.jpg" alt="logo-white" width="300"/>
-
+<div tyle="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git3.jpg" alt="logo-white" width="300"/>
+    <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git4.jpg" alt="logo-white" width="300"/>
+    <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git5.jpg" alt="logo-white" width="300"/>
+</div>
 
 ---
 
@@ -97,11 +98,15 @@ Our vision is to make payments simple, secure, and accessible for everyone, empo
     ```
 ---
 
-<img src="https://github.com/Madan94/Artx/blob/Madhan/dapp/public/images/hack5.png" alt="upload" width="800"/>
+<div tyle="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git6.jpg" alt="logo-white" width="300"/>
+    <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git7.jpg" alt="logo-white" width="300"/>
+    <img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git8.jpg" alt="logo-white" width="300"/>
+</div>
 
 ---
 
-## 📖 **Journey of Artx**
+## 📖 **Journey of Blockpay**
 
 ### **The Journey of BlockPay: A Dream Built in a Hackathon**  
 
