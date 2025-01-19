@@ -3,9 +3,14 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Madan94/blockpay1)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/madhan-fullstack-developer/)
 
-<img src="https://github.com/Madan94/Artx/blob/Madhan/dapp/public/images/hack3.png" alt="logo-white" width="800"/>
+<img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git2.jpg" alt="logo-white" width="300"/>
 
-<img src="https://github.com/Madan94/Artx/blob/Madhan/dapp/public/images/hack4.png" alt="logo-white" width="800"/>
+<img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git3.jpg" alt="logo-white" width="300"/>
+
+<img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git4.jpg" alt="logo-white" width="300"/>
+
+<img src="https://github.com/Madan94/blockpay1/blob/main/assets/images/git5.jpg" alt="logo-white" width="300"/>
+
 
 ---
 
