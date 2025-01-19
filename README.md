@@ -1,10 +1,19 @@
+# **Blockpay** - An UPI App to manage your Crypto Payments
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Madan94/blockpay1)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/madhan-fullstack-developer/)
+
+<img src="https://github.com/Madan94/Artx/blob/Madhan/dapp/public/images/hack3.png" alt="logo-white" width="800"/>
+
+<img src="https://github.com/Madan94/Artx/blob/Madhan/dapp/public/images/hack4.png" alt="logo-white" width="800"/>
+
+---
+
 # BlockPay
 
 ## Simplifying Cryptocurrency Payments for Businesses
 
-BlockPay is a secure, user-friendly platform that empowers businesses to accept cryptocurrency payments in just three simple steps. Our goal is to bridge the gap between the growing demand for crypto transactions and the challenges businesses face in adopting this new-age payment method.
-
----
+BlockPay is a secure, user-friendly UPI Mobile platform that empowers businesses to accept cryptocurrency payments in just three simple steps. Our goal is to bridge the gap between the growing demand for crypto transactions and the challenges businesses face in adopting this new-age payment method.
 
 ## 🚀 Features
 
@@ -16,75 +25,128 @@ BlockPay is a secure, user-friendly platform that empowers businesses to accept 
 
 ---
 
-## 🛠️ Tech Stack
+## 📜 **Smart Contract**
 
-- **Frontend**: React Native for a seamless cross-platform experience.
-- **Backend**: Node.js and Express for fast and reliable server-side operations.
-- **Blockchain**: Smart contracts for secure and transparent payment processing.
-- **Database**: MongoDB for efficient storage and management of user and transaction data.
+Avalanche Fuji-Testnet  
+The Smart Contract is deployed in the Avalanche Fuji-Testnet at **[0x6690107d0DB012E513F0f64a99364619f723cfF8](https://testnet.snowtrace.io/address/0x6690107d0DB012E513F0f64a99364619f723cfF8)**  
+Visit the link for more details!
+
+**🔗 [Artx Smart Contract](https://testnet.snowtrace.io/address/0x6690107d0DB012E513F0f64a99364619f723cfF8)**
+
+<img src="https://github.com/Madan94/blockpay1/assets/images/git1.jpg" alt="contract-ss" width="800"/>
 
 ---
 
-## 📖 Getting Started
+## 📄 **Documentation**
 
-Follow these steps to set up and run the project locally.
+For more detailed information, please refer to the **project pitchdeck**:  
 
-### Prerequisites
+[Pitchdeck](https://www.canva.com/design/DAGcgiI1DFA/pWRbtPzwvmVYTBhPnQGPXA/edit?utm_content=DAGcgiI1DFA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
-- Node.js
-- npm or Yarn
-- React Native CLI
-- MongoDB
+---
 
-### Installation
+## 🎯 **Project Vision**
 
-1. Clone the repository:
+Our vision is to make payments simple, secure, and accessible for everyone, empowering people to connect and transact with trust..
+
+---
+
+## ⚙️ **Technologies Used**
+
+- **Blockchain**: Avalanche Fuji Testnet (L1 Chain)
+- **Token**: AVAX
+- **Smart Contracts**: Solidity
+- **Frontend**: React.js, Css, Web3.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Deployment**: Hardhat
+
+---
+
+## 🛠 **Getting Started**
+
+### 🛠️ **Installation**
+
+1. **Clone the Repository**
+    ```bash
+    git clone https://github.com/Madan94/blockpay1.git
+    npm install all
+    ```
+
+2. **Navigating to Backend**
+    ```bash
+    cd backend
+    npm install all
+    ```
+
+3. **Start Blockpay in Web**
    ```bash
-   git clone https://github.com/yourusername/blockpay.git
-2. Navigate to the project directory:
-   ```bash
-   cd blockpay
+    npx expo start w
+    ```
+   Your application will be up and running at `http://localhost:8081` 🚀
+   Your Server will be open and running at `http://localhost:5001` 🚀 
 
-3. Install dependencies:
-   ```bash
-   npm install
-   
-4. Set up the environment variables: Create a .env file in the root directory and configure the following:
-   ```bash
-   MONGO_URI=<your-mongodb-uri>
-   PORT=<server-port>
-   SECRET_KEY=<your-secret-key>
+4. **Start Blockpay in Expo Mobile**
+    ```bash
+    npx expo start
+    ```
+---
 
-5. Start the development server:
-   ```bash
-   npm start
-   
-6. Run the mobile app:
-   ```bash
-   npx react-native run-android # For Android
-   npx react-native run-ios     # For iOS
-   
-📄 Project Workflow
+<img src="https://github.com/Madan94/Artx/blob/Madhan/dapp/public/images/hack5.png" alt="upload" width="800"/>
 
-Business Onboarding: Businesses sign up and provide basic details.
-Identity Verification: Secure KYC verification for trust and transparency.
-Crypto Setup: Businesses configure their crypto wallet and add supported coins.
+---
 
-🎯 Use Cases
+## 📖 **Journey of Artx**
 
-Small and medium businesses seeking to accept crypto payments.
-Merchants looking for a simple, secure, and affordable crypto solution.
-Businesses wanting to cater to the growing crypto-savvy audience.
+### **The Journey of BlockPay: A Dream Built in a Hackathon**  
 
-➡️ App screenshots
+1. **A Dream is Born:**  
+   BlockPay started as a wild idea scribbled on a piece of paper during a late-night brainstorming session. Fueled by curiosity and excitement, it was our chance to create something meaningful, something that could solve real problems.  
 
-![image](https://github.com/user-attachments/assets/ea9a872c-97cb-4e77-bca3-79ca66b674f4)
-![Screenshot 2025-01-11 173943](https://github.com/user-attachments/assets/b651cc22-efe5-4d81-8a83-8f90cd649fad)
-![Screenshot 2025-01-11 174120](https://github.com/user-attachments/assets/a003d66a-1cb5-4ccb-9d39-4443882289a3)
-![image](https://github.com/user-attachments/assets/05c868ae-8a19-4d74-971b-fa15f39b2a06)
-![image](https://github.com/user-attachments/assets/b8c0dab4-a2b1-4a53-b308-edba66b8edaf)
+2. **The Hackathon Rush:**  
+   The clock was ticking, and the pressure was real. With every passing hour, we poured our hearts into the project—debating, designing, coding, and testing. The room was filled with the sound of keyboards clicking and ideas flowing.  
 
+3. **The Breakthrough Moments:**  
+   Those little wins during the hackathon—getting the first feature to work or seeing the prototype come alive—felt like magic. Each milestone reminded us why we started and kept us going even when exhaustion kicked in.  
 
+4. **The Demo Day:**  
+   Standing before the judges, we weren’t just presenting an app; we were sharing a dream. BlockPay wasn’t perfect, but it was ours—a vision we had brought to life in just 36 hours.  
 
+5. **More Than a Project:**  
+   Though the hackathon ended, BlockPay remained close to our hearts. It wasn’t about winning; it was about the journey—the laughter, struggles, and camaraderie that shaped us.  
 
-Developed by Madhanraj M, Madesh, Rakesh, Shyam Sundar
+**BlockPay is a story of passion and possibility—a reminder that even in the smallest beginnings, big dreams are born.**  
+
+---
+
+## 👥 **Team Name**
+
+- **Team Legion**  
+  - **Madhanraj M**,Chennai Institute of Technology, Team Lead, Full Stack & Web3 Developer
+  - **Madesh Vaityah**,Chennai Institute of Technology, App Developer
+  - **Shyam Sundar M**,Chennai Institute of Technology, Frontend Developer
+  - **Rakesh C R**,Chennai Institute of Technology, Backend Developer
+---
+
+## 🏆 **Hackathon Participated In**
+
+- **EAST-INDIA BLOCKCHAIN SUBBMIT 2025**  
+  Hosted by: Indian Institute of Technology, Kharagpur, Westbengal. 
+
+---
+
+## 📜 **License**
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Madan94/Artx/blob/main/LICENSE) file for details.
+
+---
+
+## 📞 **Contact**
+
+For any inquiries or support, feel free to reach out:
+
+- **Email**: [madhanwebdev94@gmail.com](mailto:madhanwebdev94@gmail.com)
+- **LinkedIn**: [Madhanraj M](https://www.linkedin.com/in/madhan-fullstack-developer/)
+---
+
+*Made with ❤️ by Team Legion.*
